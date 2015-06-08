@@ -9,3 +9,5 @@ persist.sys.isUsbOtgEnabled=true
 ro.adb.secure=0
 ro.secure=0
 
+persist.demo.hdmirotation=landscape
+ro.sf.hwrotation=0
